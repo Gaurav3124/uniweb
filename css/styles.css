@@ -1,0 +1,38 @@
+html {
+  background-color: #7eca9c;
+}
+
+h3 {
+  margin-top: 0;
+  background-color: #caf7e3;
+  border-radius: 20px 20px 0 0;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+}
+
+p{
+  margin-left: 30px;
+  margin-bottom: 10px;
+}
+
+body {
+  line-height: 2;
+}
+
+.container {
+  background-color: #16c79a;
+  color: #40394a;
+  display: inline-block;
+  height: 400px;
+  width: 30%;
+  margin: 50px auto;
+  border-radius: 25px;
+
+}
